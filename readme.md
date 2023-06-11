@@ -1,8 +1,8 @@
-<h1 style="display:flex;justify-content:center;margin-bottom:20px;border:0;">
+<div style="display:flex;justify-content:center;margin-bottom:20px;">
 	<div style="padding:20px 30px 15px 25px;border-radius:50px; background:#FFF;">
 		<img src="hexydec.svg" alt="Hexydec Logo" width="225" height="60">
 	</div>
-</h1>
+</div>
 
 My name is Will Earp, alias Hexydec, I am a full stack developer based in the UK. I have always had a passion for technology, and was lucky to be in my mid-teens when the Internet started to become a thing.
 
