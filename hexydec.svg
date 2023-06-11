@@ -1,100 +1,106 @@
-<svg viewBox="0 0 1402 374" xmlns="http://www.w3.org/2000/svg" width="225" height="60">
-	<style>
-	@keyframes lines {
-		0% {
-			opacity: 0;
-			transform: translate(-200px,-60px);
-		}
-		
-		to {
-			opacity: 1;
-			transform: none;
-		}
-	}
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="95">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml" style="padding:20px 30px 15px 25px;border-radius:50px; background:#FFF;">
+			<svg viewBox="0 0 1402 374" xmlns="http://www.w3.org/2000/svg" width="225" height="60">
+				<style>
+				@keyframes lines {
+					0% {
+						opacity: 0;
+						transform: translate(-200px,-60px);
+					}
+					
+					to {
+						opacity: 1;
+						transform: none;
+					}
+				}
 
-	#l1, #l2, #l3, #l4, #l5 {
-		animation: 0.5s both lines;
-		fill: #00005f;
-	}
+				#l1, #l2, #l3, #l4, #l5 {
+					animation: 0.5s both lines;
+					fill: #00005f;
+				}
 
-	#l1 {
-		fill: #6eaec7;
-	}
+				#l1 {
+					fill: #6eaec7;
+				}
 
-	#l2 {
-		fill: #1f82a8;
-	}
+				#l2 {
+					fill: #1f82a8;
+				}
 
-	#l3 {
-		animation-delay: 0.1s;
-	}
+				#l3 {
+					animation-delay: 0.1s;
+				}
 
-	#l4 {
-		animation-delay: 0.2s;
-	}
+				#l4 {
+					animation-delay: 0.2s;
+				}
 
-	#l5 {
-		animation-delay: 0.3s;
-	}
+				#l5 {
+					animation-delay: 0.3s;
+				}
 
-	#h, #e, #x, #y {
-		fill: #040404;
-	}
+				#h, #e, #x, #y {
+					fill: #040404;
+				}
 
-	.dec {
-		fill: #ff7801;
-	}
+				.dec {
+					fill: #ff7801;
+				}
 
-	@keyframes letters {
-		0% {
-			opacity: 0;
-			transform: translateX(50px);
-		}
-		
-		to {
-			opacity: 1;
-			transform: none;
-		}
-	}
+				@keyframes letters {
+					0% {
+						opacity: 0;
+						transform: translateX(50px);
+					}
+					
+					to {
+						opacity: 1;
+						transform: none;
+					}
+				}
 
-	#h, #e, #x, #y, #d, #i, #c {
-		animation: 0.5s 1.3s both letters;
-	}
+				#h, #e, #x, #y, #d, #i, #c {
+					animation: 0.5s 1.3s both letters;
+				}
 
-	#e {
-		animation-delay: 1.5s;
-	}
+				#e {
+					animation-delay: 1.5s;
+				}
 
-	#x {
-		animation-delay: 1.7s;
-	}
+				#x {
+					animation-delay: 1.7s;
+				}
 
-	#y {
-		animation-delay: 1.9s;
-	}
+				#y {
+					animation-delay: 1.9s;
+				}
 
-	#d {
-		animation-delay: 2.1s;
-	}
+				#d {
+					animation-delay: 2.1s;
+				}
 
-	#i {
-		animation-delay: 2.3s;
-	}
+				#i {
+					animation-delay: 2.3s;
+				}
 
-	#c {
-		animation-delay: 2.5s;
-	}
-	</style>
-	<path d="M324 279v1l-163 94-22-13 162-94V80l23 13v186Z" id="l1"/>
-	<path d="m139 174 163-94 22 13-163 94v187l-22-13V174Z" id="l2"/>
-	<path d="M92 148v-1l163-94 23 13-163 94v187l-22-13V148h-1Z" id="l3"/>
-	<path d="m46 121 163-94 23 13-163 93v188l-23-13 1-187h-1Z" id="l4"/>
-	<path d="M0 95v-1L163 0l23 13-163 94v187L0 281V95Z" id="l5"/>
-	<path d="M409 318V54h40v111h48V54h40v264h-40V203h-48v115h-40Z" id="h"/>
-	<path d="M565 54h114v37h-74v74h59v38h-59v77h74v38H565V54Z" id="e"/>
-	<path d="m793 318-34-92-32 92h-42l53-137-49-127h43l31 84 29-84h42l-50 129 52 135h-43Z" id="x"/>
-	<path d="m984 54-54 153v111h-40V207L837 54h42l31 100 32-100h42Z" id="y"/>
-	<path d="M998 54h63c19 0 34 5 45 17 11 11 17 27 17 46v138c0 19-6 34-17 45a61 61 0 0 1-45 18h-63V54Zm61 226c7 0 13-2 18-6 4-5 6-11 6-19V116c0-8-2-14-6-18-5-4-11-7-18-7h-21v189h21Z" class="dec" id="d"/>
-	<path d="M1148 54h114v37h-74v74h58v38h-58v77h74v38h-114V54Z" class="dec" id="i"/>
-	<path d="M1339 321c-18 0-33-5-45-17a61 61 0 0 1-17-45V112c0-18 5-33 17-45 12-11 27-17 45-17 19 0 34 6 45 17 12 12 18 27 18 45v31h-39v-31c0-7-3-13-7-18-4-4-10-6-16-6-7 0-13 2-17 6-4 5-6 11-6 18v147c0 7 2 13 6 18 4 4 10 7 17 7 6 0 12-3 16-7 4-5 7-11 7-18v-38h39v38c0 18-6 33-18 45a61 61 0 0 1-45 17Z" class="dec" id="c"/>
+				#c {
+					animation-delay: 2.5s;
+				}
+				</style>
+				<path d="M324 279v1l-163 94-22-13 162-94V80l23 13v186Z" id="l1"/>
+				<path d="m139 174 163-94 22 13-163 94v187l-22-13V174Z" id="l2"/>
+				<path d="M92 148v-1l163-94 23 13-163 94v187l-22-13V148h-1Z" id="l3"/>
+				<path d="m46 121 163-94 23 13-163 93v188l-23-13 1-187h-1Z" id="l4"/>
+				<path d="M0 95v-1L163 0l23 13-163 94v187L0 281V95Z" id="l5"/>
+				<path d="M409 318V54h40v111h48V54h40v264h-40V203h-48v115h-40Z" id="h"/>
+				<path d="M565 54h114v37h-74v74h59v38h-59v77h74v38H565V54Z" id="e"/>
+				<path d="m793 318-34-92-32 92h-42l53-137-49-127h43l31 84 29-84h42l-50 129 52 135h-43Z" id="x"/>
+				<path d="m984 54-54 153v111h-40V207L837 54h42l31 100 32-100h42Z" id="y"/>
+				<path d="M998 54h63c19 0 34 5 45 17 11 11 17 27 17 46v138c0 19-6 34-17 45a61 61 0 0 1-45 18h-63V54Zm61 226c7 0 13-2 18-6 4-5 6-11 6-19V116c0-8-2-14-6-18-5-4-11-7-18-7h-21v189h21Z" class="dec" id="d"/>
+				<path d="M1148 54h114v37h-74v74h58v38h-58v77h74v38h-114V54Z" class="dec" id="i"/>
+				<path d="M1339 321c-18 0-33-5-45-17a61 61 0 0 1-17-45V112c0-18 5-33 17-45 12-11 27-17 45-17 19 0 34 6 45 17 12 12 18 27 18 45v31h-39v-31c0-7-3-13-7-18-4-4-10-6-16-6-7 0-13 2-17 6-4 5-6 11-6 18v147c0 7 2 13 6 18 4 4 10 7 17 7 6 0 12-3 16-7 4-5 7-11 7-18v-38h39v38c0 18-6 33-18 45a61 61 0 0 1-45 17Z" class="dec" id="c"/>
+			</svg>
+		</foreignObject>
+	</div>
 </svg>

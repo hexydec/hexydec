@@ -1,7 +1,5 @@
-<div style="display:flex;justify-content:center;margin-bottom:20px;">
-	<div style="padding:20px 30px 15px 25px;border-radius:50px; background:#FFF;">
-		<img src="hexydec.svg" alt="Hexydec Logo" width="225" height="60">
-	</div>
+<p style="text-align:center;">
+	<img src="hexydec.svg" alt="Hexydec Logo" width="280" height="95">
 </div>
 
 My name is Will Earp, alias Hexydec, I am a full stack developer based in the UK. I have always had a passion for technology, and was lucky to be in my mid-teens when the Internet started to become a thing.
@@ -28,7 +26,5 @@ I have a number of software packages that I have developed which you can use in 
 	<img src="https://github-readme-stats.vercel.app/api?username=hexydec&count_private=true&theme=radical&custom_title=Hexydec+GitHub+Stats&show_icons=true&hide_rank=true" alt="Hexydec's GitHub stats" style="margin-right:20px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexydec&theme=radical&count_private=true&size_weight=0.5&count_weight=0.5" alt="Hexydec's language stats">
 </div>
-<canvas width="100%" height="300" id="game"></canvas>
-<script src="cellular-automata.js"></script>
-
-*_Cellular Automata_*
+<!--<canvas width="100%" height="300" id="game"></canvas>
+<script src="cellular-automata.js"></script>*_Cellular Automata_*-->
