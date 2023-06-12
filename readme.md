@@ -22,9 +22,9 @@ I have a number of software packages that I have developed which you can use in 
 
 ## Stats
 
-<div style="display:flex;justify-content:center;align-items:flex-start;">
-	<img src="https://github-readme-stats.vercel.app/api?username=hexydec&count_private=true&theme=radical&custom_title=Hexydec+GitHub+Stats&show_icons=true&hide_rank=true" alt="Hexydec's GitHub stats" style="margin-right:20px">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexydec&theme=radical&count_private=true&size_weight=0.5&count_weight=0.5" alt="Hexydec's language stats">
-</div>
+![Hexydec's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexydec&count_private=true&theme=radical&custom_title=Hexydec+GitHub+Stats&show_icons=true&hide_rank=true)
+
+![Hexydec's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hexydec&theme=radical&count_private=true&size_weight=0.5&count_weight=0.5)
+
 <!--<canvas width="100%" height="300" id="game"></canvas>
 <script src="cellular-automata.js"></script>*_Cellular Automata_*-->
