@@ -1,6 +1,6 @@
-<p style="text-align:center;">
-	<img src="hexydec.svg" alt="Hexydec Logo" width="280" height="95">
-</div>
+<p>
+	<img src="hexydec.svg" alt="Hexydec Logo" width="100%" height="95">
+</p>
 
 My name is Will Earp, alias Hexydec, I am a full stack developer based in the UK. I have always had a passion for technology, and was lucky to be in my mid-teens when the Internet started to become a thing.
 
